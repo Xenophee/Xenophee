@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px">
 </p>
           
-          
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true)
           
           
           
