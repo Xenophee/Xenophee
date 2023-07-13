@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## Objectifs 2023-2024
+## Goals 2023-2024
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" width="40px">
