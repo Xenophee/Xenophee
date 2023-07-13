@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
 ## Statistics
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true&theme=transparent)
+)
           
           
           
