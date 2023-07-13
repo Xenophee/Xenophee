@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="padding-right:100px;">
 </p>
 
+<br>
 
 ## Goals 2023-2024
 
