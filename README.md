@@ -1,6 +1,6 @@
-# Hi there 👋
-<br>
-<br>
+
+
+<!-- ![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/covers.png?raw=true) -->
 
 <!--
 **Xenophee/Xenophee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=550&lines=Hi%2C+Welcome+to+my+profile+!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  </h1>
+</div>
+
+<br>
+<br>
 
 <h2 align="center">Skills</h3>
 <br>
-<center>
+
+<div align="center">
   
 | Property | Data |
 |----------------------|----------------------|
@@ -28,7 +37,7 @@ Here are some ideas to get you started:
 | **Tools**   | ![FIGMA](https://img.shields.io/badge/VSC-3d9ad5?style=for-the-badge&logo=vsc&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white)  |
 | **OS**   | ![WINDOWS](https://img.shields.io/badge/windows-01a4ee?style=for-the-badge&logo=windows&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  |
 
-</center>
+</div>
 <br>
 <br>
 
