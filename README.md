@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div> 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/perrine-dassonville-54047b266/"><img height="35" width="140" src="./img/linkedin.png">
-    </a>
-  </p>
-</div>
 
 
 <br>
@@ -77,3 +71,13 @@ Here are some ideas to get you started:
 <p align="center"> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Xenophee" alt="GitHub Streak" /></a>
 </p>
+
+<br>
+<br>
+
+<h2 align="center">Connect with me</h3>
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perrine.dassonville@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perrine-dassonville-54047b266/)
+
