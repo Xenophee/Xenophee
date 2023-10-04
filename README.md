@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 ![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner.png?raw=true)
 
+<p align="center">
+  Je suis actuellement développeur web junior. J'espère me spécialiser dans le backend pour l'instant. J'aime aussi le frontend donc mon objectif ultime serait de pouvoir être fullstack.
+</p>
+
 <br>
 
 <h2 align="center">Compétences</h3>
