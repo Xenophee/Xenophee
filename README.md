@@ -22,11 +22,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-<br>
-<br>
-<br>
-
-
+![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner2.png?raw=true)
 
 <br>
 
