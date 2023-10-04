@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-| Property | Data |
+|  |  |
 |----------------------|----------------------|
 | **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/Javascript-f7e01b?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Framework**   | ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white)    |
-| **Outils**   | ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white)  |
+| **Outils**   | ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) ![OFFICE](https://img.shields.io/badge/suite_office-eb3c01?style=for-the-badge&logo=microsoftoffice&logoColor=white) |
 | **OS**   | ![WINDOWS](https://img.shields.io/badge/windows-01a4ee?style=for-the-badge&logo=windows&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  |
 
 </div>
@@ -60,16 +60,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true&bg_color=DEG,B2956A,120F10&text_color=EBEBEB&title_color=EBD6D0&icon_color=120F10&locale=fr&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true&bg_color=B2956A&text_color=EBEBEB&title_color=120F10&icon_color=120F10&locale=fr&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xenophee&hide=html,hack&langs_count=8&card_width=320&bg_color=DEG,120F10,B2956A&text_color=EBEBEB&title_color=EBD6D0&locale=fr&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xenophee&hide=html,hack&langs_count=8&card_width=320&bg_color=B2956A&text_color=EBEBEB&title_color=120F10&locale=fr&hide_border=true" />
   </a>
 </p>
 
 <br>
 <p align="center"> 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Xenophee&background=45%2CB2956A%2C120F10&currStreakNum=EBD6D0&sideNums=EBD6D0&sideLabels=EBD6D0&dates=EBEBEB&border=EB545400&locale=fr" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Xenophee&locale=fr&currStreakNum=EBD6D0&sideNums=121011&sideLabels=121011&dates=EBEBEB&border=EB545400&background=B2956A&ring=121011&fire=121011&currStreakLabel=121011" alt="GitHub Streak" /></a>
 </p>
 
 <br>
