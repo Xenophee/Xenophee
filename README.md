@@ -1,7 +1,5 @@
 
 
-<!-- ![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/covers.png?raw=true) -->
-
 <!--
 **Xenophee/Xenophee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner2.png?raw=true)
+![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner.png?raw=true)
 
 <br>
 
