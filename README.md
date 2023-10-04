@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+<br>
+
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/perrine-dassonville-54047b266/"><img height="35" width="140" src="./img/linkedin.png">
+    </a>
+  </p>
+</div>
+
+
+<br>
 
 <h2 align="center">Skills</h3>
 <br>
