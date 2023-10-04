@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Statistics</h3>
 <br>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true&theme=transparent" />
@@ -61,9 +62,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Xenophee)](https://git.io/streak-stats)
-
+<br>
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenophee&title=Commits" alt="Xenophee" /></a>
-</p>         
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Xenophee" alt="GitHub Streak" /></a>
+</p>
