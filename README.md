@@ -20,12 +20,12 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner.png?raw=true)
+![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner.jpg?raw=true)
 
 <br>
 
 <p align="center"> 
-  <em>Je suis actuellement développeur web junior. J'espère me spécialiser dans le backend pour l'instant. J'aime aussi le frontend donc mon objectif ultime serait de pouvoir être fullstack.</em>
+  <em>Je suis actuellement développeur web. J'espère me spécialiser dans le backend pour l'instant. J'aime aussi le frontend donc mon objectif ultime serait de pouvoir être fullstack.</em>
 </p>
 
 <br>
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <br>
 
 
-<h2 align="center">Objectifs 2023-2024</h3>
+<h2 align="center">Objectifs 2024</h3>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,laravel,nodejs,react,electron,ts,sass">
+  <img src="https://skillicons.dev/icons?i=symfony,nodejs,react,ts">
 </p>
 <br>
 <br>
