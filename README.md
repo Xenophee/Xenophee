@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 |----------------------|----------------------|
 | **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/Javascript-f7e01b?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Framework**   | ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white)    |
-| **Outils**   | ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) ![OFFICE](https://img.shields.io/badge/suite_office-eb3c01?style=for-the-badge&logo=microsoftoffice&logoColor=white) |
-| **OS**   | ![WINDOWS](https://img.shields.io/badge/windows-01a4ee?style=for-the-badge&logo=windows&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  |
+| **Outils**   | ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 <br>
