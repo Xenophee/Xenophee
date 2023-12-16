@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  <em>Je suis actuellement développeur web. J'espère me spécialiser dans le backend pour l'instant. J'aime aussi le frontend donc mon objectif ultime serait de pouvoir être fullstack.</em>
+  <em>Je suis actuellement développeur web junior. J'espère me spécialiser dans le backend pour l'instant. J'aime aussi le frontend donc mon objectif ultime serait de pouvoir être fullstack.</em>
 </p>
 
 <br>
