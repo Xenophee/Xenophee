@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h2 align="center">Objectifs 2024</h3>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,nodejs,react,ts">
+  <img src="https://skillicons.dev/icons?i=java,spring,symfony,react,ts">
 </p>
 <br>
 <br>
