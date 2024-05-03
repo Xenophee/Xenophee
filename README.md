@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-![perrine dassonville](https://github.com/Xenophee/Xenophee/blob/main/img/banner.jpg?raw=true)
+<img src="./img/banner-github.jpg">
+
 
 <br>
 
@@ -30,31 +31,51 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">Compétences</h3>
+<div align="center">
+<a href="https://perrine-dassonville.dev"/><img src="https://img.shields.io/badge/Portfolio-b2956a?style=for-the-badge&logo=gitbook&logoColor=white"></a>
+
+</div>
+
+<br>
+
+<h2 align="center">Projet en cours</h2>
+<br>
+
+<div align="center">
+
+:leaves: <a href="https://github.com/Xenophee/laura-naturelle--demo"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
+</div>
+
+
+
+
+<br>
+
+<h2 align="center">Compétences</h2>
 <br>
 
 <div align="center">
   
-|  |  |
-|----------------------|----------------------|
-| **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/Javascript-f7e01b?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Framework**   | ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white)    |
-| **Outils**   | ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white) |
+|  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/Javascript-f7e01b?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Framework**   | ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Outils**   | ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 </div>
 <br>
 <br>
 
 
-<h2 align="center">Objectifs 2024</h3>
+<h2 align="center">Objectifs 2024-2025</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,symfony,react,ts">
+  <img src="https://skillicons.dev/icons?i=spring,symfony,ts,react">
 </p>
 <br>
 <br>
 
-<h2 align="center">Statistiques</h3>
+<h2 align="center">Statistiques</h2>
 <br>
 
 <p align="center">
@@ -74,7 +95,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h2 align="center">Contact</h3>
+<h2 align="center">Contact</h2>
 <br>
 
 <div align="center">
