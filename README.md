@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-<img src="./img/banner-github.jpg">
+<img src="banner-github.jpg">
 
 
 <br>
