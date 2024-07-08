@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+:ledger: <img src="https://img.shields.io/badge/Refonte du portfolio-b2956a">
+
 :leaves: <a href="https://github.com/Xenophee/laura-naturelle--demo"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
 </div>
 
@@ -58,8 +60,8 @@ Here are some ideas to get you started:
   
 |  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/Javascript-f7e01b?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Framework**   | ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Framework**   | ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Outils**   | ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 </div>
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 <h2 align="center">Objectifs 2024-2025</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,symfony,ts,react">
+  <img src="https://skillicons.dev/icons?i=docker,symfony,react,angular">
 </p>
 <br>
 <br>
