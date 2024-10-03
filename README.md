@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xenophee&show_icons=true&bg_color=B2956A&text_color=EBEBEB&title_color=120F10&icon_color=120F10&locale=fr&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xenophee&hide=html,hack,css,scss&langs_count=8&card_width=320&bg_color=B2956A&text_color=EBEBEB&title_color=120F10&locale=fr&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xenophee&hide=html,hack,css,scss&langs_count=3&card_width=320&bg_color=B2956A&text_color=EBEBEB&title_color=120F10&locale=fr&hide_border=true" />
   </a>
 </p>
 
