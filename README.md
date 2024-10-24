@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <h2 align="center">Objectifs 2024-2025</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,symfony,react,angular">
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,symfony,react,angular">
 </p>
 <br>
 <br>
