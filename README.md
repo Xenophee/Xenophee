@@ -56,15 +56,52 @@ Here are some ideas to get you started:
 <h2 align="center">Compétences</h2>
 <br>
 
-<div align="center">
-  
-|  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Langages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Framework**   | ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Outils**   | ![GIT](https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
+  
+
+
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Langages</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+          <img src="https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Framework</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+          <img src="https://img.shields.io/badge/Bootstrap-593588?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Outils</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+          <img src="https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
+
+
 <br>
 <br>
 
