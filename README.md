@@ -35,13 +35,16 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">Projet en cours</h2>
+<h2 align="center">Projets en cours</h2>
 <br>
 
 <div align="center">
+
 :ledger: <img src="https://img.shields.io/badge/Refonte du portfolio-b2956a">
 
+
 :leaves: <a href="https://github.com/Xenophee/laura-naturelle--demo"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
+
 </div>
 
 
