@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 :ledger: <img src="https://img.shields.io/badge/Refonte du portfolio-b2956a">
 
 
-:leaves: <a href="https://github.com/Xenophee/laura-naturelle--demo"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
+:leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
 
 </div>
 
