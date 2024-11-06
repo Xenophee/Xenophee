@@ -91,6 +91,7 @@ Here are some ideas to get you started:
                     <td>
                       <img src="https://img.shields.io/badge/Git-df4c37?style=for-the-badge&logo=git&logoColor=white" alt="Git">
                       <img src="https://img.shields.io/badge/Figma-ff7362?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+                        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
                     </td>
                   </tr>
             </tbody>
