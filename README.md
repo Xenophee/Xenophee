@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-:leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
+:
+leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
 
 </div>
 
@@ -84,6 +85,7 @@ Here are some ideas to get you started:
                     <td>
                         <img src="https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
                         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+                        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
                     </td>
                   </tr>
                   <tr>
@@ -107,7 +109,7 @@ Here are some ideas to get you started:
 <h2 align="center">Objectifs 2024-2025</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,symfony,react,angular">
+  <img src="https://skillicons.dev/icons?i=docker,symfony,angular">
 </p>
 <br>
 <br>
