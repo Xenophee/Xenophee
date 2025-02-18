@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"> 
-    <em>Je suis actuellement en formation Concepteur développeur logiciel Java / Spring.</em>
-</p>
 
 <br>
 
@@ -35,16 +32,19 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">Projets en cours</h2>
-<br>
+[//]: # (<h2 align="center">Projets en cours</h2>)
 
-<div align="center">
+[//]: # (<br>)
 
+[//]: # ()
+[//]: # (<div align="center">)
 
-:
-leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>
+[//]: # ()
+[//]: # ()
+[//]: # (<a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
 
 
 <br>
@@ -88,6 +88,13 @@ leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https:
                         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
                     </td>
                   </tr>
+                    <tr>
+                    <td><strong>DevOps</strong></td>
+                    <td>
+                        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+                        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
+                    </td>
+                  </tr>
                   <tr>
                     <td><strong>Outils</strong></td>
                     <td>
@@ -109,7 +116,7 @@ leaves: <a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https:
 <h2 align="center">Objectifs 2024-2025</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,symfony,angular">
+  <img src="https://skillicons.dev/icons?i=symfony,angular">
 </p>
 <br>
 <br>
