@@ -24,9 +24,15 @@ Here are some ideas to get you started:
 <br>
 
 
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Xenophee&color=blueviolet&style=for-the-badge&label=VUES+DU+PROFIL" alt="Perrine" />
+</div>
+
 <br>
 
 <div align="center">
+    <p>N'hésitez pas à consulter mon portfolio :</p>
     <a href="https://perrine-dassonville.dev"/><img src="https://img.shields.io/badge/Portfolio-b2956a?style=for-the-badge&logo=gitbook&logoColor=white"></a>
 </div>
 
