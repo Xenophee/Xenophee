@@ -21,12 +21,8 @@ Here are some ideas to get you started:
 <img src="banner-github.jpg">
 
 
-<br>
-
-
-
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Xenophee&color=blueviolet&style=for-the-badge&label=VUES+DU+PROFIL" alt="Perrine" />
+    <img src="https://komarev.com/ghpvc/?username=Xenophee&color=blueviolet&style=pixel&label=VUES+DU+PROFIL" alt="Perrine" />
 </div>
 
 <br>
