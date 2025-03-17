@@ -34,19 +34,23 @@ Here are some ideas to get you started:
 
 <br>
 
-[//]: # (<h2 align="center">Projets en cours</h2>)
+<h2 align="center">Projets en cours</h2>
 
-[//]: # (<br>)
+<br>
 
-[//]: # ()
-[//]: # (<div align="center">)
 
-[//]: # ()
-[//]: # ()
-[//]: # (<a href="https://laura-naturelle-demo-v-2.vercel.app"/> <img src="https://img.shields.io/badge/L'Aura Natur'elle-10b981"></a>)
+<div align="center">
 
-[//]: # ()
-[//]: # (</div>)
+
+
+<a href="https://quizine-ton-cerveau.vercel.app"/> <img src="https://img.shields.io/badge/Quizine-FFB900"></a>
+
+<br>
+
+<a href="https://quizine-documentation.vercel.app"/> <img src="https://img.shields.io/badge/Documentation de Quizine-FEE685"></a>
+
+
+</div>
 
 
 <br>
@@ -116,7 +120,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h2 align="center">Objectifs 2024-2025</h2>
+<h2 align="center">Objectifs 2025</h2>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=symfony,angular">
