@@ -120,10 +120,10 @@ Here are some ideas to get you started:
 <br>
 
 
-<h2 align="center">Objectifs 2025</h2>
+<h2 align="center">Objectifs 2025-2026</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,angular">
+  <img src="https://skillicons.dev/icons?i=angular,ansible,kubernetes,jenkins,nginx">
 </p>
 <br>
 <br>
