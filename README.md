@@ -71,7 +71,6 @@ Here are some ideas to get you started:
                   <tr>
                     <td><strong>Langages</strong></td>
                     <td>
-                      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
                       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
                       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
                       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -82,6 +81,7 @@ Here are some ideas to get you started:
                     <td><strong>Frameworks</strong></td>
                     <td>
                       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+                        <img src="https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus">
                       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
                         <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
                     </td>
@@ -89,8 +89,8 @@ Here are some ideas to get you started:
                     <tr>
                     <td><strong>BDD</strong></td>
                     <td>
-                        <img src="https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
                         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+                        <img src="https://img.shields.io/badge/mysql-00566a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
                         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
                     </td>
                   </tr>
